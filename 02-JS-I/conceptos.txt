@@ -1,0 +1,5 @@
+Variables: Son contenedores (cajas) que nos permiten almacenar un valor que podemos usar mas adelante.
+Strings: Son un tipo específico de datos que nos permite almacenar texto. En JS se definen entre comillas (simples o dobles).
+Funciones (argumentos, return): Son un tipo de objeto que podemos llamar para cumplir una tarea específica. Pueden (o no) recibir argumentos y pueden (o no) retornar un valor.
+Declaraciones if: Es una sentencia que nos permite eevaluar si una afirmación es verdadera o falsa y de acuerso a ello ejecutar ciertas instrucciones.
+Valores booleanos (true, false): Son un tipo específico de datos que puede almacenar solo dos valores, true o false.
