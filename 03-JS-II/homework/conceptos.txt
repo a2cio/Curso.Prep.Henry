@@ -1,0 +1,4 @@
+for: Es un tipo de bucle para controlar el flujo del programa que nos permite ejecutar instrucciones una y otra vez hasta que una condición se deje de cumplir.
+&&: Es un operador lógico que nos devuelve true solo si todas las condiciones son verdaderas.
+||: Es un operador lógico que nos devuelve true si al menos una de las condiciones es verdadera.
+!: Es un operador lógico que nos devuelve el valor opuesto de lo que se le pasa.
