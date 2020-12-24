@@ -1,0 +1,1 @@
+Arrays: Son contenedores que permiten el almacenamiento de múltiples datos y el acceso a los mismos se realiza a través de un índice entre corchetes luego del nombre del array.
