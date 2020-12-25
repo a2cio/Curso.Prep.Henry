@@ -1,0 +1,6 @@
+Objetos: Es una colección de propiedades (características, atributos) asociadas a representaciones en código de los objetos que forman parte de nuestra realidad.
+Propiedades: Son asociaciones entre nombre y valor que describen características y/o atributos del objeto del que forman parte.
+Métodos: Son funciones guardadas en un objeto, declaradas en el valor de las propiedades y que desencadenan acciones específicas cuando son invocadas. Pueden recibir parámetros.
+Bucle for…in: Es una sintaxis que nos permite recorrer cada clave de un objeto hasta cuando se hayan iterado todas.
+Notación de puntos vs notación de corchetes: Son las dos (2) maneras posibles que Javascript nos ofrece para acceder a las propiedades de un objjeto específico. La primera
+utiliza el nombre del objeto seguido de punto y la clave de la propiedad. La segunda usa  el nombre del objeto seguido se corchetes y la clave de la propiedad entre comillas.
