@@ -1,0 +1,2 @@
+prototype: Es la manera que tienen las clases de establecer un método una vez y dar acceso a cada objeto de esa clase.
+Constructors (de Clases): Es un método llamado en el momento de la creación de instancias de la clase.
